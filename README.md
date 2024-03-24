@@ -1,16 +1,12 @@
-### Hi there 👋
+- 👋 Hi, I’m **Tadas Majeris**
+- 🎵 I do music and frontend development
 
-<!--
-**tadasmajeris/tadasmajeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadasmajeris&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/iseneld/github-readme-stats" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadasmajeris&theme=apprentice&layout=compact&hide_border=true&bg_color=151515" height="198"/>
+  </a>
+  <br /><br />
+   <a href="https://www.codewars.com/users/iseneld">
+    <img src="https://www.codewars.com/users/tadan/badges/large" width="494">
+  </a> 
